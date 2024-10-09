@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, View, Text, Image, FlatList } from 'react-native';
 
 const filmesFavoritos = [
-    { id: '1', titulo: 'Yakisoba de Frango', imagem: 'https://simplificandoacozinha.com.br/wp-content/uploads/2024/07/55572-768x571.jpg' },
+    { id: '1', titulo: 'Yakisoba de Carne', imagem: 'https://simplificandoacozinha.com.br/wp-content/uploads/2024/07/55572-768x571.jpg' },
     { id: '2', titulo: 'Pizza de calabresa', imagem: 'https://i.pinimg.com/736x/cc/d3/23/ccd323f23697707098fabfe06aa2aad6.jpg' },
     { id: '3', titulo: 'Sushi', imagem: 'https://cdn.prod.website-files.com/5edf7b44b7a4f6000913a233/669906a1a1d568ab50da617b_Nomes-de-Sushi_.webp' },
 ];
