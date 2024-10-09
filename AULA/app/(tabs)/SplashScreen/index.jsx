@@ -16,7 +16,7 @@ const style = StyleSheet.create({
 
 })
 const SplashScreen = function () {
-    const logoIst = 'https://st.depositphotos.com/1364614/1282/v/450/depositphotos_12820708-stock-illustration-golden-vector-star.jpg'
+    const logoIst = 'https://png.pngtree.com/png-clipart/20201029/ourmid/pngtree-circle-clipart-red-circle-png-image_2381952.jpg'
     return <LinearGradient
                 start={{x: 0, y: 0}}
                 end={{x: 0, y: 1}}
